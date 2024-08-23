@@ -2,6 +2,8 @@
 
 A simple Quiz Application built with React and Vite that allows users to test their knowledge through a series of multiple-choice questions. It keeps track of your score and provides immediate feedback on your answers.
 
+## Live Demo
+
 You can check out the live version of the project here: [Quiz App](https://quiz-app-nikhils045.vercel.app/).
 
 ## Table of Contents
