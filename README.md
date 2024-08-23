@@ -10,7 +10,7 @@ A simple Quiz Application built with React that allows users to test their knowl
 
 ## Installation
 ### Step 1: Clone the Repository
-    `git clone https://github.com/yourusername/quiz-app.git`
+    `git clone https://github.com/nikhils045/Quiz-App.git`
     `cd quiz-app`
 
 ### Step 2: Install Dependencies
